@@ -44,10 +44,15 @@ setup(
         ],
     ),
     classifiers=[
-        'Intended Audience :: Developers',
-        'Programming Language :: Python',
-        'Programming Language :: Python :: 3',
-        'Topic :: Software Development :: Libraries :: Python Modules',
-        'License :: OSI Approved :: BSD License',
-    ]
+        "Intended Audience :: Developers",
+        "License :: OSI Approved :: BSD License",
+        "Environment :: Web Environment",
+        "Topic :: Software Development :: Libraries :: Application Frameworks",
+        "Topic :: Internet :: WWW/HTTP :: WSGI",
+        "Programming Language :: Python :: 2.7",
+        "Programming Language :: Python :: 3.3",
+        "Programming Language :: Python :: 3.4",
+        "Programming Language :: Python :: 3.5",
+        'Development Status :: 5 - Production/Stable'
+    ],
 )
